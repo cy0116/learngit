@@ -1,3 +1,3 @@
-git isversion conte
+git is a distributed version control system.
 
-git in sdf;a
+git is free software.
